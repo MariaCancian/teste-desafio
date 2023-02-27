@@ -5,7 +5,8 @@ form {
     margin: auto;
 
 }
-#sub1{
+
+#sub1 {
     width: 30%;
     margin: auto;
     color: blueviolet;
@@ -13,9 +14,22 @@ form {
 
 
 }
-#sub1:hover{
-    background-color: black;
-    color: aliceblue;}
-    
 
-    
+#sub1:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+#nome1 {
+
+    border-radius: 5px;
+}
+
+#email1 {
+    border-radius: 5px;
+}
+
+#nome1:focus {
+    border-style: none;
+    outline: 0;
+}
