@@ -3,4 +3,19 @@ form {
     flex-direction: column;
     width: 50%;
     margin: auto;
+
 }
+#sub1{
+    width: 30%;
+    margin: auto;
+    color: blueviolet;
+    background-color: blanchedalmond;
+
+
+}
+#sub1:hover{
+    background-color: black;
+    color: aliceblue;}
+    
+
+    
